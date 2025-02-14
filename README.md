@@ -1,19 +1,25 @@
-# Hi, This is Abel Cumbane 👋
 
-![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelcumbane&show_icons=true&theme=radical)
+<h1 align="center">Hi, This is Abel Cumbane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
-## 🚀 Languages & Tools:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelcumbane&layout=compact&theme=radical)
+<div align="center">
+  
+![Views](https://komarev.com/ghpvc/?username=abelcumbane)
+  
+</div>
 
-## 📊 Contribution Graph:
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abelcumbane&theme=github)
+<div align="center">
 
-## ⏳ Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abelcumbane)
+    ![Abel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abelcumbane&show_icons=true&theme=radical)
 
-## 🚀 Fun Fact:
-💡 Eu adoro criar aplicações em **Java + Vaadin** e trabalhar com **real estate tech**!
+    ## 🚀 Languages & Tools:
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abelcumbane&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
+    ## 📊 Contribution Graph:
+    ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abelcumbane&theme=github)
+
+    ## ⏳ Weekly Development Breakdown
+    ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abelcumbane)
+
+    ## 🚀 Fun Fact:
+    💡 Eu adoro criar aplicações em **Java + Vaadin** e trabalhar com **real estate tech**!
+</div>
