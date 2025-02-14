@@ -17,8 +17,7 @@
 ## 📊 Contribution Graph:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abelcumbane&theme=github)
 
-## ⏳ Weekly Development Breakdown
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=abelcumbane)
+![Balton Come Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abelcumbane&theme=dracula)
 
 ## 🚀 Fun Fact:
 💡 Eu adoro criar aplicações em **Java + Vaadin** e trabalhar com **real estate tech**!
